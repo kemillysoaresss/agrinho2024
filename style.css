@@ -2,5 +2,19 @@
     width: 30%;
 }
 body{
-    background-color: antiquewhite;
+    background-color: rgb(248, 159, 209);
+    color: black;
+} 
+.campo{
+    width: 10%;
 }
+.cpm{
+    width: 50%;
+}
+.cidades{
+    width: 20%;
+}
+body{
+    align-items: center;
+}
+.
